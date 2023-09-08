@@ -1,7 +1,7 @@
-#include<iostream>
-#include<conio.h>
+#include<bits/stdc++.h>
 #include<windows.h>
 using namespace std;
+//dween
 struct emp
 {
     string name,id,address;
